@@ -7,7 +7,7 @@
 
 
 ## Overview of the project
-### project: Developing a web application for managing inventory and sales tracking in retail businesses.
+### project: Developing a to-do web application for managing inventory and sales tracking in retail businesses.
 ### Key activities
 -**Requirement Gathering:** Understanding client needs and defining project scope.
 -**Design and Prototyping**: Creating wireframes and mockups to visualize the app's layout and functionality.
